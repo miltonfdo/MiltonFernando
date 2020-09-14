@@ -1,0 +1,11 @@
+- layout: left
+  company: Charles Schwab
+  link: schwab.com
+  job_title: Programmer Analyst
+  dates: August 2017 - Present
+  quote: >
+   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+  description: | # this will include new lines to allow paragraphs
+This project is to develop tools for the organization to build optimized tools including web application, 
+REST API’s and middleware tools for Charles Schwab, involved in development, requirement gathering, analysis and Implementation of common login mechanism and middleware tools.
+The project involves in developing tools to support AUTHN/AUTHZ OAUTH, SAML and security related products using downstream dependencies on MongoDB, SQL server and Mainframe.

@@ -1,0 +1,51 @@
+# Site
+repository: sproogen/resume-theme
+favicon: images/favicon.ico
+
+# Personal info
+name: Milton Fernando
+title: Senior Network System Administrator
+email: milton.fernando@live.com
+website: www.github.com/miltonferenando/resume-theme
+
+# Social links
+github_username:  miltonfdo
+
+linkedin_username: milton-fernando-09508521
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hi, my name's Milton Fernando Selvaraj and I'm a Fullstack developer/SRE. s I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+
+  I am most skilled in: <mark>C#</mark> <mark>Splunk</mark> and <mark>DevOps</mark>
+
+# Projects Section
+# projects_title: Projects
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+# more_title: A Little More About Me
+more_content: | # this will include new lines to allow paragraphs
+  Alongside my experience  in Developement and software engineering ,I also have experience in 
+  -Entrpise system monitoring design
+  - AIOPS
+   
+
+# Footer
+footer_show_references: true
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag

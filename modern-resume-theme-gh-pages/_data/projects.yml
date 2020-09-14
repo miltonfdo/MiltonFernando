@@ -1,0 +1,7 @@
+- layout: top-middle
+  name: Enterprise Middleware Operations Security
+  github: miltonfernando/resume-theme
+  quote: >
+    This is probably one of the most complex application  i have worked on f you with SLO of 1300ms and Uptime of 99.99%
+  description: | # this will include new lines to allow paragraphs
+   This project is to develop tools for the organization to build optimized tools including web application, REST API’s and middleware tools for Charles Schwab, involved in development, requirement gathering, analysis and Implementation of common login mechanism and middleware tools. The project involves in developing tools to support AUTHN/AUTHZ OAUTH, SAML and security related products using downstream dependencies on MongoDB, SQL server and Mainframe.
